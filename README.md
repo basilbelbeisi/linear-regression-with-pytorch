@@ -11,9 +11,3 @@ The code demonstrates:
 - Gradient descent optimization
 - Parameter updates over 20 epochs
 - Plotting `w`, `b`, and `loss` over time
-
----
-
-### Preview
-
-![Training Progress](https://raw.githubusercontent.com/basilbelbeisi/linear-regression-with-pytorch/main/path-to-your-image.png)
